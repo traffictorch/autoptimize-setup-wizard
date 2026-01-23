@@ -3,7 +3,7 @@ Added guided Setup Wizard feature
 
 # Autoptimize Setup Wizard - Implementation Guide
 
-This adds a guided, safe setup wizard to Autoptimize to help users configure without breaking sites.
+This adds a guided, safe setup wizard to Autoptimize to help users configure plugin.
 
 ## Features
 - Backup reminder first
