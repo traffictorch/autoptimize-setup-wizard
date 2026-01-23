@@ -3,7 +3,7 @@ Added guided Setup Wizard feature
 
 # Autoptimize Setup Wizard - Implementation Guide
 
-This adds a guided, safe setup wizard to Autoptimize (free version) to help users configure without breaking sites, then upsell Pro naturally.
+This adds a guided, safe setup wizard to Autoptimize to help users configure without breaking sites.
 
 ## Features
 - Backup reminder first
@@ -19,14 +19,14 @@ This adds a guided, safe setup wizard to Autoptimize (free version) to help user
 3. Activation shows a one-time notice.
 
 ## Why This Helps
-- Addresses common complaints: "Setup is tricky, broke my site."
-- Educates users, delivers value fast → higher retention.
-- Gentle Pro upsell after proven results → more conversions.
+- Addresses commonality: "(",)"
+- Educates users, delivers value fast → higher retent.
+- Proven results → conversions.
 
 ## Future Ideas
 - Add more detection (conflicts, WooCommerce).
 - "Test site" button.
-- Pro-only presets.
+- Pro presets.
 
 Integrate into main plugin file
 Open autoptimize.php
